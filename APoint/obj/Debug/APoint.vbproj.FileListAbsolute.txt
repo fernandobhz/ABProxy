@@ -1,0 +1,11 @@
+C:\git\github\fernandobhz\ABProxy\APoint\bin\Debug\APoint.exe.config
+C:\git\github\fernandobhz\ABProxy\APoint\bin\Debug\APoint.exe
+C:\git\github\fernandobhz\ABProxy\APoint\bin\Debug\APoint.pdb
+C:\git\github\fernandobhz\ABProxy\APoint\bin\Debug\APoint.xml
+C:\git\github\fernandobhz\ABProxy\APoint\obj\Debug\APoint.vbproj.AssemblyReference.cache
+C:\git\github\fernandobhz\ABProxy\APoint\obj\Debug\APoint.Resources.resources
+C:\git\github\fernandobhz\ABProxy\APoint\obj\Debug\APoint.vbproj.GenerateResource.cache
+C:\git\github\fernandobhz\ABProxy\APoint\obj\Debug\APoint.vbproj.CoreCompileInputs.cache
+C:\git\github\fernandobhz\ABProxy\APoint\obj\Debug\APoint.exe
+C:\git\github\fernandobhz\ABProxy\APoint\obj\Debug\APoint.xml
+C:\git\github\fernandobhz\ABProxy\APoint\obj\Debug\APoint.pdb
