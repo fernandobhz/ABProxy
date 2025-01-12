@@ -1,0 +1,10 @@
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\ControllerPoint\bin\Debug\ControllerPoint.exe.config
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\ControllerPoint\bin\Debug\ControllerPoint.exe
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\ControllerPoint\bin\Debug\ControllerPoint.pdb
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\ControllerPoint\bin\Debug\ControllerPoint.xml
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\ControllerPoint\obj\Debug\ControllerPoint.Resources.resources
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\ControllerPoint\obj\Debug\ControllerPoint.vbproj.GenerateResource.Cache
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\ControllerPoint\obj\Debug\ControllerPoint.exe
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\ControllerPoint\obj\Debug\ControllerPoint.xml
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\ControllerPoint\obj\Debug\ControllerPoint.pdb
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\ControllerPoint\obj\Debug\ControllerPoint.vbprojResolveAssemblyReference.cache

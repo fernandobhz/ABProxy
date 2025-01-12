@@ -1,0 +1,14 @@
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\ControllerPoint\bin\Debug\ControllerPoint.exe.config
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\ControllerPoint\obj\Debug\ControllerPoint.exe
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\ControllerPoint\obj\Debug\ControllerPoint.xml
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\ControllerPoint\obj\Debug\ControllerPoint.pdb
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\ControllerPoint\bin\Debug\APoint.exe.config
+C:\Repositorios\fernandobhz\ABProxy\APoint\bin\Debug\APoint.exe.config
+C:\Repositorios\fernandobhz\ABProxy\APoint\bin\Debug\APoint.exe
+C:\Repositorios\fernandobhz\ABProxy\APoint\bin\Debug\APoint.pdb
+C:\Repositorios\fernandobhz\ABProxy\APoint\bin\Debug\APoint.xml
+C:\Repositorios\fernandobhz\ABProxy\APoint\obj\Debug\APoint.Resources.resources
+C:\Repositorios\fernandobhz\ABProxy\APoint\obj\Debug\APoint.vbproj.GenerateResource.Cache
+C:\Repositorios\fernandobhz\ABProxy\APoint\obj\Debug\APoint.exe
+C:\Repositorios\fernandobhz\ABProxy\APoint\obj\Debug\APoint.xml
+C:\Repositorios\fernandobhz\ABProxy\APoint\obj\Debug\APoint.pdb

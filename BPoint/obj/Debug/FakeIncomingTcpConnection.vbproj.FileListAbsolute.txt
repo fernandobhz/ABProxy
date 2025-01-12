@@ -1,0 +1,8 @@
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\FakeIncomingTcpConnection\bin\Debug\FakeIncomingTcpConnection.pdb
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\FakeIncomingTcpConnection\bin\Debug\FakeIncomingTcpConnection.xml
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\FakeIncomingTcpConnection\obj\Debug\FakeIncomingTcpConnection.Resources.resources
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\FakeIncomingTcpConnection\obj\Debug\FakeIncomingTcpConnection.vbproj.GenerateResource.Cache
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\FakeIncomingTcpConnection\obj\Debug\FakeIncomingTcpConnection.xml
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\FakeIncomingTcpConnection\obj\Debug\FakeIncomingTcpConnection.pdb
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\FakeIncomingTcpConnection\bin\Debug\FakeIncomingTcpConnection.exe
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\FakeIncomingTcpConnection\obj\Debug\FakeIncomingTcpConnection.exe

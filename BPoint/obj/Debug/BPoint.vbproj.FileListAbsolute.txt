@@ -1,0 +1,12 @@
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\FakeIncomingTcpConnection\obj\Debug\RemotePoint.exe
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\FakeIncomingTcpConnection\obj\Debug\RemotePoint.xml
+C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\FakeIncomingTcpConnection\obj\Debug\RemotePoint.pdb
+C:\Repositorios\fernandobhz\ABProxy\BPoint\bin\Debug\BPoint.exe
+C:\Repositorios\fernandobhz\ABProxy\BPoint\bin\Debug\BPoint.pdb
+C:\Repositorios\fernandobhz\ABProxy\BPoint\bin\Debug\BPoint.xml
+C:\Repositorios\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.Resources.resources
+C:\Repositorios\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.vbproj.GenerateResource.Cache
+C:\Repositorios\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.exe
+C:\Repositorios\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.xml
+C:\Repositorios\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.pdb
+C:\Repositorios\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.vbprojResolveAssemblyReference.cache
