@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\FakeIncomingTcpConnection\obj\Debug\RemotePoint.exe
 C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\FakeIncomingTcpConnection\obj\Debug\RemotePoint.xml
 C:\Repositorios\fernandobhz\FakeIncomingTcpConnection\FakeIncomingTcpConnection\obj\Debug\RemotePoint.pdb
@@ -10,3 +11,16 @@ C:\Repositorios\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.exe
 C:\Repositorios\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.xml
 C:\Repositorios\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.pdb
 C:\Repositorios\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.vbprojResolveAssemblyReference.cache
+=======
+C:\git\github\fernandobhz\ABProxy\BPoint\bin\Debug\BPoint.exe.config
+C:\git\github\fernandobhz\ABProxy\BPoint\bin\Debug\BPoint.exe
+C:\git\github\fernandobhz\ABProxy\BPoint\bin\Debug\BPoint.pdb
+C:\git\github\fernandobhz\ABProxy\BPoint\bin\Debug\BPoint.xml
+C:\git\github\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.vbproj.AssemblyReference.cache
+C:\git\github\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.Resources.resources
+C:\git\github\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.vbproj.GenerateResource.cache
+C:\git\github\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.vbproj.CoreCompileInputs.cache
+C:\git\github\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.exe
+C:\git\github\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.xml
+C:\git\github\fernandobhz\ABProxy\BPoint\obj\Debug\BPoint.pdb
+>>>>>>> cb22a8a929e5267a986f486ed01a9f83d32641b2

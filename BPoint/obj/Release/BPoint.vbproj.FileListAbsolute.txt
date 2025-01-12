@@ -1,0 +1,11 @@
+C:\git\github\fernandobhz\ABProxy\BPoint\bin\Release\BPoint.exe.config
+C:\git\github\fernandobhz\ABProxy\BPoint\bin\Release\BPoint.exe
+C:\git\github\fernandobhz\ABProxy\BPoint\bin\Release\BPoint.pdb
+C:\git\github\fernandobhz\ABProxy\BPoint\bin\Release\BPoint.xml
+C:\git\github\fernandobhz\ABProxy\BPoint\obj\Release\BPoint.vbproj.AssemblyReference.cache
+C:\git\github\fernandobhz\ABProxy\BPoint\obj\Release\BPoint.Resources.resources
+C:\git\github\fernandobhz\ABProxy\BPoint\obj\Release\BPoint.vbproj.GenerateResource.cache
+C:\git\github\fernandobhz\ABProxy\BPoint\obj\Release\BPoint.vbproj.CoreCompileInputs.cache
+C:\git\github\fernandobhz\ABProxy\BPoint\obj\Release\BPoint.exe
+C:\git\github\fernandobhz\ABProxy\BPoint\obj\Release\BPoint.xml
+C:\git\github\fernandobhz\ABProxy\BPoint\obj\Release\BPoint.pdb

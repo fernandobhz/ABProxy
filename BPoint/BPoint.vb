@@ -8,21 +8,33 @@ Public Module BPoint
     Sub Main()
         Dim Path = System.Reflection.Assembly.GetExecutingAssembly().Location
         Dim Params = System.IO.Path.GetFileNameWithoutExtension(Path)
-        If Not Params.Contains("@") Then Params = InputBox("Parametros", "Parametros", "localhost-80@localhost-32128")
+
+        If Params.StartsWith("BPoint") Then
+            Params = Mid(Params, "BPoint".Length + 1)
+        End If
+
+        If Not Params.Contains("@") Then Params = InputBox(
+            "You can define the params the filename.exe" & vbCrLf & vbCrLf &
+            "Example: localhost-3000@remote-proxy-8080" & vbCrLf & vbCrLf &
+            "This will connect to the proxy server at: " & vbCrLf &
+            "'remote-proxy-8080'" & vbCrLf & vbCrLf &
+            "Incoming connections will be forwarded to" & vbCrLf &
+            "'localhost:3000'", "Params: FinalServerHost-Port @ ProxyHost-Port", "localhost-3000@remote-proxy-8080")
+
         Dim Matches = Regex.Matches(Params, "([^:]+)[-]([0-9]+)[@]([^:]+)[-]([0-9]+)")
 
-        Dim ServerHost As String = Matches(0).Groups(1).Value
-        Dim ServerPort As String = Matches(0).Groups(2).Value
-        Dim AHost As String = Matches(0).Groups(3).Value
-        Dim APort As String = Matches(0).Groups(4).Value
+        Dim FinalServerHost As String = Matches(0).Groups(1).Value
+        Dim FinalServerPort As String = Matches(0).Groups(2).Value
+        Dim ProxyHost As String = Matches(0).Groups(3).Value
+        Dim ProxyPort As String = Matches(0).Groups(4).Value
 
         Dim ABConnection As TcpClient = Nothing
 
         Do
             Try
                 If ABConnection Is Nothing OrElse Not ABConnection.Connected Then
-                    ABConnection = Tcp.Connect(AHost, APort)
-                    TcpProxy.Open(ABConnection, ServerHost, ServerPort)
+                    ABConnection = Tcp.Connect(ProxyHost, ProxyPort)
+                    TcpProxy.Open(ABConnection, FinalServerHost, FinalServerPort)
                 Else
                     Thread.Sleep(100)
                 End If
